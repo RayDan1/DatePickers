@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePickers</string>
+    <string name="show_date_picker">Show Date Picker</string>
+    <string name="selected_date">Selected Date</string>
+</resources>
